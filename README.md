@@ -1,5 +1,5 @@
 # Crypto-Clustering-
-<!-- Module 19 Challenge Crypto Clustering 
+Module 19 Challenge Crypto Clustering 
 Created Repo called Crypto_Clustering-
 started by importing pandas, hvplot, sklearn.cluster, sklearn.decomposition, sklearn, preprocessing, warnings and warinings. filter warning, and matplotlib.pyplot. 
 
@@ -14,4 +14,4 @@ Found the K-Mean for the PCA data following similar steps above.
 PCA data K was 4
 create a scatter plot using the same steps above. 
 took and made elbow curves side beside and then scatter plots. 
-Saved the data and uploaded into repo -->
+Saved the data and uploaded into repo
